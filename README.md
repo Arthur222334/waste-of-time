@@ -1,3 +1,2 @@
 # waste-of-time
-author = lewyins arthur
-<br>
+# this is my local repository
